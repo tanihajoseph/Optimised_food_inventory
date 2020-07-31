@@ -1,4 +1,4 @@
-BON APPETIT: OPTIMIZED WAREHOUSE MANAGEMENT OF PERISHABLE GOODS FOR A FOOD DELIVERY COMPANY
+BON APPETIT: OPTIMIZED WAREHOUSE MANAGEMENT OF PERISHABLE GOODS
 This is an intelligent raw materials management application for restaurants.The application uses machine learning (time series analysis) to predict requirement of stock. 
 The application features novel features like food donations, visualization of sales and smart inventory.
 
